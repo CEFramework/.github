@@ -1,12 +1,9 @@
-## Hi there 👋
+# Cumulative Effects Framework
 
-<!--
+### Open Government License (OGL)
 
-**Here are some ideas to get you started:**
+The Cumulative Effects Framework (CEF) modelling tool is Crown copyright (i.e. it was created by civil servants in the course of their duties). The Scottish Government will provide the contractor with permission to use and distribute a Beta ‘test’ version of the Cumulative Effects Framework under Open Government Licence (OGL).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Please find a link to the Open Government Licence terms here: [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). The attribution statement below is to be published alongside the tool so that potential re-users will know that the information is subject to OGL terms:
+
+*‘Scottish Government. © Crown copyright, 2024. This test version of the Cumulative Effects Framework (CEF) modelling tool is licensed under the Open Government Licence 3.0.’*
